@@ -16,7 +16,8 @@ Sistema desenvolvido em C# para controle de entrada e saída de veículos e visi
 - Relatórios em PDF
 - Filtro por data
 
-- <img width="1915" height="1030" alt="image" src="https://github.com/user-attachments/assets/b8bcf58a-d925-4a03-a3e1-953bc8c4fd0d" />
+- <img width="1260" height="731" alt="image" src="https://github.com/user-attachments/assets/b1a8588a-58e5-4e90-9796-ef7e29d3c979" />
+
 
 ## Aprendizados
 
